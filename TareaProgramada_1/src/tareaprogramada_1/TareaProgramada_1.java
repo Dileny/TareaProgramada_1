@@ -21,7 +21,7 @@ public class TareaProgramada_1 {
         
         
         // hola 2
-        //hola
+        //holiwis
         JOptionPane.showMessageDialog(null, "holiwis");
         // HOLA
     }
