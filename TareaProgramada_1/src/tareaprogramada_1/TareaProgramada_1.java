@@ -17,14 +17,7 @@ public class TareaProgramada_1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        // estoy en kelchan
-        // hola 2
-        //asdasdasdasdasdads
         
-        // HOLA
-        dadasd
-        //heeeey
-        //prueba
     }
     
 }
