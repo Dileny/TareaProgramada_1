@@ -15,18 +15,7 @@ public class TareaProgramada_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-        // estoy en kelchan
-        // hola 2
-        //asdasdasdasdasdads
-        
-        // HOLA
-        
-        //heeeey
-        //prueba
-        
-        //holiwissssssssssssssssssssssssssssssssssssssss
+       
     }
     
 }
