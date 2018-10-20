@@ -5,6 +5,8 @@
  */
 package tareaprogramada_1;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Kelchan
@@ -20,7 +22,7 @@ public class TareaProgramada_1 {
         
         // hola 2
         
-        
+        JOptionPane.showMessageDialog(null, "holiwis");
         // HOLA
     }
     
